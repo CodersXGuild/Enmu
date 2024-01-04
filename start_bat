@@ -1,0 +1,4 @@
+@echo off
+TITLE EnmuDemon
+:: Enables virtual env mode and then starts Enmu
+env\scripts\activate.bat && py -m EnmuBot
